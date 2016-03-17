@@ -1,7 +1,7 @@
 {
   "name": "screen-size",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the screen size (x/y)",
   "license": "MIT",
   "repository": "bendrucker/screen-size",
