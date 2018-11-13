@@ -1,4 +1,4 @@
-# screen-size [![Build Status](https://travis-ci.org/bendrucker/screen-size.svg?branch=master)](https://travis-ci.org/bendrucker/screen-size)
+# screen-size [![Build Status](https://travis-ci.org/bendrucker/screen-size.svg?branch=master)](https://travis-ci.org/bendrucker/screen-size) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/screen-size.svg)](https://greenkeeper.io/)
 
 > Get the screen size (x/y)
 
